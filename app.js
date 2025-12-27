@@ -26,7 +26,7 @@ function addValidition() {
     // let img = document.getElementById("buttoniki")
     let img =  document.createElement("img")
     img.src = inputs[3]
-    img.src(./delete-button-trash-can-bin-symbol-delete-web-icon-illustration-free-vector.jpg)
+    // img.src(./delete-button-trash-can-bin-symbol-delete-web-icon-illustration-free-vector.jpg)
     // img = inputs[2].value
     tr.append(td1,td2,td3,td4)
     tbody.append(tr)
