@@ -43,3 +43,7 @@ thead{
     height: 4vh;
     display: none;
 }
+label,input{
+    display: block !important;
+    margin: 0 auto;
+}

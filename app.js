@@ -23,8 +23,11 @@ function addValidition() {
      let td3 = document.createElement("td")
     td3.innerText = inputs[2].value
       let td4 = document.createElement("td")
-    let img = document.getElementById("buttoniki")
-    img = inputs[2].value
+    // let img = document.getElementById("buttoniki")
+    let img =  document.createElement("img")
+    img.src = inputs[3]
+    img.src(./delete-button-trash-can-bin-symbol-delete-web-icon-illustration-free-vector.jpg)
+    // img = inputs[2].value
     tr.append(td1,td2,td3,td4)
     tbody.append(tr)
     
