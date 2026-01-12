@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 40vh;
+    width: 100vw;
+
+
+}
+#divbir{
+background-color: rgb(32, 145, 145);
+}
+#diviki{
+background-color: rgb(152, 45, 6);
+}
+
+#divuc{
+background-color: rgb(166, 101, 112);
+}
+
+#divdord{
+background-color: rgb(186, 13, 186);
+}
+#esas{
+   display: flex;
+   justify-content: space-around;
+  }
+  h2{
+   text-align: center;
+   margin-top: 7vw;
+  }
+  h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+  }
