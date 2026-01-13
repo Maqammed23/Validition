@@ -5,12 +5,19 @@ padding: 0;
 }
 div{
     height: 40vh;
-    width: 100vw;
-
+    width: 80vw;
+/* margin-left: 10px; */
 
 }
 #divbir{
 background-color: rgb(32, 145, 145);
+}
+button{
+    width: 25vw;
+   height: 4vh;
+   border: none;
+   border-radius: 10px;
+   background-color: rgb(222, 210, 210);
 }
 #diviki{
 background-color: rgb(152, 45, 6);
@@ -35,4 +42,20 @@ background-color: rgb(186, 13, 186);
     text-align: center;
     font-size: xx-large;
     font-weight: bolder;
+    color: white;
+  }
+  #buttonbir{
+margin-top: 19.7vw;
+  }
+  #buttoniki{
+margin-top: 11.1vw;
+  }
+  #buttonuc{
+margin-top: 11.1vw;
+  }
+  #buttondord{
+margin-top: 11.1vw;
+  }
+  body{
+    background-color: black;
   }
