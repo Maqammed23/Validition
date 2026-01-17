@@ -24,6 +24,7 @@ $("#buttonuc").click(function () {
                 $("#buttonuc").text("FADE İN");
             } else {
                 $("#buttonuc").text("FADE TO 25%");
+                $("#fadeto-h2")
             }
         });
     });
