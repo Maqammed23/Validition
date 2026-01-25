@@ -27,12 +27,18 @@
 // let arr = [12, 5, 8, 21, 3, 17];
 // console.log(Math.min(...arr),Math.max(...arr))
 
-// let word = "Salam Dünya";
-// let ord = word.trim()
-// console.log(ord.length)
+let word = "Salam Dünya";
+let qord = word.split("")
+let ord = qord.trim()
+console.log(ord.length)
 
-// let arr = [4, 7, 2, 4, 9, 2, 1, 7];
-// let arr1 = arr.filter((a,b) =>)
+
+// let arr = [4, 7, 2, 4, 9, 2, 1, 7]
+// let arr1 = arr.filter((i, j) =>
+//   arr.indexOf(i) !== j &&
+//   arr.lastIndexOf(i) === j
+// )
+// console.log(arr1)
 
 
 
