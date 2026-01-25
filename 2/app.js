@@ -119,7 +119,3 @@ $.ajax({
 })
 
 
-
-let arr1 = [3,8,5,6,12]
-let arr2 = [3,8,5,6,12,99,89,79]
-console.log(arr1.push(arr2))
